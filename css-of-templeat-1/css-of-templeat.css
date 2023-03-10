@@ -431,7 +431,8 @@ body {
 .link a {
     text-decoration: none;
     color: #777;
-    letter-spacing: -3px;
+    letter-spacing: -2px;
+    font-size: 30px;
 }
 
 .link {
